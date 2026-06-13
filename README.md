@@ -1,26 +1,87 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Shivam
-===============================================================================================================================
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&height=30&lines=Full%20Stack%20Developer%3BOpen%20Source%20Enthusiast%3BTech%20Blogger" alt="Typing SVG" />
+</div>
 
-AI/ML Student | Java Developer | Tech Enthusiast
-------------------------------------------------
+<div align="center">
+  <img src="https://github-profile-maker.vercel.app/api/stats?username=Shivam3229&theme=tokyonight&layout=standard&show_icons=true&hide_border=false&hide_title=false&hide_rank=false&border_radius=10" alt="GitHub Stats" width="49%" height="230" style="margin-right: 12px;" />
+  <img src="https://github-profile-maker.vercel.app/api/top-langs?username=Shivam3229&theme=tokyonight&layout=compact&hide_border=false&hide_progress=false&langs_count=8&border_radius=10" alt="Top Languages" width="49%" height="230" style="" />
+</div>
 
-* 🌍  I'm based in Bhopal
-* ✉️  You can contact me at [shivamkrtripathi3229@gmail.com](mailto:shivamkrtripathi3229@gmail.com)
-* 🧠  I'm currently learning Machine Learning
+<div align="center">
+  <img src="https://github-profile-maker.vercel.app/api/stats?username=Shivam3229&theme=tokyonight&layout=standard&show_icons=true&hide_border=false&hide_title=false&hide_rank=false&border_radius=10" alt="GitHub Stats" />
+</div>
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a>
-</p>
+<div align="center">
+  <img src="https://github-profile-maker.vercel.app/api/divider?bgType=solid&thickness=2&alignment=center&bgSolidColor=CCCCCC&bgStartColor=CCCCCC&bgEndColor=999999&bgGradientDirection=horizontal" alt="Divider" />
+</div>
 
-### Socials
+<br/>
 
-<p align="left"> <a href="https://www.github.com/Shivam3229" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/Shivam Kumar Tripathi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-<a href="https://www.github.com/Shivam3229" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Shivam3229?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-### Badges
 
-<b>My GitHub Stats</b>
+<div align="center">
+  <img src="https://github-profile-maker.vercel.app/api/capsule?type=waving&color=abb42d&colorEnd=A82DAA&height=200&section=header&text=Hello+World%21&fontSize=30&fontColor=ffffff&animation=waving&gradientDirection=horizontal&parallax=false&wavePosition=70&waveAmplitude=20&waveSpeed=20&flipWave=false&textAlignX=50&textAlignY=50" />
+</div>
 
-<a href="http://www.github.com/Shivam3229"><img src="https://github-readme-stats.vercel.app/api?username=Shivam3229&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Shivam3229's GitHub stats" /></a>
+<div align="center">
+  <img src="https://github.com/github.png" width="150" height="150" style="border-radius: 50%;" />
+</div>
 
-<a href="http://www.github.com/Shivam3229"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam3229&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<h1 align="center">Hi, I'm [Your Name]! 👋</h1>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&height=30&lines=Full%20Stack%20Developer%3BOpen%20Source%20Enthusiast%3BTech%20Blogger" alt="Typing SVG" />
+</div>
+
+## Section Title
+
+Write your content here...
+
+<details>
+<summary>Click to expand</summary>
+
+```javascript
+console.log("Hello!");
+```
+
+</details>
+
+<div align="center">
+  <img src="https://github-profile-maker.vercel.app/api/streak?username=Shivam3229&theme=tokyonight&hide_border=false&border_radius=10" width="50%" alt="GitHub Streak" />
+  <img src="https://github-profile-maker.vercel.app/api/top-langs?username=Shivam3229&theme=tokyonight&layout=compact&hide_border=false&hide_progress=false&langs_count=8&border_radius=10" width="50%" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-maker.vercel.app/api/activity?username=Shivam3229&theme=tokyonight&hide_border=false" alt="Activity Graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-maker.vercel.app/api/trophies?username=Shivam3229&theme=tokyonight&column=6&row=1&margin_w=15&margin_h=15&no_frame=false&no_bg=false" alt="GitHub Trophies" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-maker.vercel.app/api/wakatime?username=Shivam3229&theme=tokyonight&hide_border=false&border_radius=4&hide_title=false&hide_recent=false&hide_editors=false&hide_languages=false&hide_operating_systems=false" alt="Wakatime Stats" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shivam3229&color=blue&style=flat&label=Profile%20Views" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-maker.vercel.app/api/quotes?theme=default&textAlign=center&authorAlign=center" alt="Quote" />
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=&perline=10&theme=dark" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-maker.vercel.app/api/activity?username=Shivam3229&theme=tokyonight&hide_border=false" alt="Activity Graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-maker.vercel.app/api/divider?bgType=gradient&thickness=2&alignment=center&bgSolidColor=CCCCCC&bgStartColor=CCCCCC&bgEndColor=999999&bgGradientDirection=horizontal" alt="Divider" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-maker.vercel.app/api/capsule?type=waving&color=EEFF00&colorEnd=A82DAA&height=200&section=header&text=Hello+World%21&fontSize=30&fontColor=ffffff&animation=waving&gradientDirection=horizontal&parallax=false&wavePosition=70&waveAmplitude=20&waveSpeed=20&flipWave=false&textAlignX=50&textAlignY=50" />
+</div>
